@@ -2,7 +2,7 @@ Office 365 Administration Toolkit Online
 ========================================
 
 Service url:
-https://140.113.208.246/office365/
+http://140.113.208.246/office365/
 
 ![image](https://raw.githubusercontent.com/hwchen18546/Office365-Toolkit-Online/master/img/web.png)
 
