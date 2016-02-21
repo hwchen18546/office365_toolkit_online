@@ -1,0 +1,90 @@
+﻿
+body {
+        font-family:Microsoft JhengHei;
+}
+
+#div_login {
+    text-align:center;
+    /*http://www.awcore.com/url/aHR0cDovL3d3dy5jb2xvcnppbGxhLmNvbS9ncmFkaWVudC1lZGl0b3Iv*/
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+}
+
+
+.btn_fun
+{
+  font: 12pt verdana;
+  font-weight:700;
+  height:20pt;
+  background-color:white;
+  border:0pt;
+  color:orangered;
+}
+
+a 
+{ 
+    text-decoration: none;  /*宣告HTML連結消除底線 */
+    color: #ccc;
+    font-size: 15px;
+}    　 
+
+/*----------------data Table GridView Css----------------------*/
+        .GV_TableScroll
+        {
+            max-height: 275px;
+            overflow: auto;
+            border:1px solid #ccc;
+           
+        }
+        .GV_DataTable
+        {
+            border-collapse: collapse;
+            width:100%;
+        }
+            .GV_DataTable tr th
+            {
+                background-color: #3c454f;
+                color: #ffffff;
+                padding: 10px 5px 10px 5px;
+                border: 1px solid #cccccc;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                font-weight: normal;
+                text-transform:capitalize;
+            }
+            .GV_DataTable tr:nth-child(2n+2)
+            {
+                background-color: #f3f4f5;
+            }
+
+            .GV_DataTable tr:nth-child(2n+1) td
+            {
+                background-color: #d6dadf;
+                color: #454545;
+            }
+            .GV_DataTable tr td
+            {
+                padding: 5px 10px 5px 10px;
+                color: #454545;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 11px;
+                border: 1px solid #cccccc;
+                vertical-align: middle;
+            }
+                .GV_DataTable tr td:first-child
+                {
+                    text-align: center;
+                }
+        /*-----------------------------------------------------------------*/
+
+/*------------------ Log_Table---------------------------*/
+
+
+
+/*----------------------------------------*/

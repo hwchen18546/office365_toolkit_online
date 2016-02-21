@@ -1,9 +1,6 @@
 Office 365 Administration Toolkit Online
 ========================================
 
-Service url:
-http://sq1.cs.nctu.edu.tw:5280/office365/
-
 ![image](https://raw.githubusercontent.com/hwchen18546/Office365-Toolkit-Online/master/img/web.png)
 
 Admin don't need to install office 365 moudule and run commands in Powershell.
